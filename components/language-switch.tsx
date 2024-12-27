@@ -1,15 +1,6 @@
 "use client";
 
-import { setUserLocale, getUserLocale } from "@/actions/setLanguage";
-import { useTheme } from "@/context/theme-context";
-import { useGetLocale } from "@/hooks/useGetLocale";
-import Image from "next/image";
-import React, { useEffect, useState } from "react";
-import { BsMoon, BsSun } from "react-icons/bs";
-
-import { BsFlag } from "react-icons/bs";
-// import { FaFlagUsa, FaFlagFr } from "react-icons/fa";
-
+import { setUserLocale } from "@/actions/setLanguage";
 export default function LanguageSwitcher({ locale }: { locale: string }) {
 
   return (
