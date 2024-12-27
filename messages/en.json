@@ -1,0 +1,95 @@
+{
+    "Metadata": {
+        "title": "Albert Ezoula | Software Engineer",
+        "description": "Welcome to my developer portfolio! Explore a collection of my projects and web applications showcasing my expertise in building dynamic and interactive user interfaces. With a passion for clean code and innovative solutions, I strive to create seamless user experiences that blend functionality with stunning designs."
+    },
+    "Cv":{
+        "link":"Software_Engineer_English.pdf"
+    },
+    "Navbar": {
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "projects": "Projects",
+        "experience": "Experience",
+        "contact": "Contact"
+    },
+    "Hero": {
+        "text1": "Hello, I'm Albert Ezoula,",
+        "text2": "I am a",
+        "text3": "Software Engineer",
+        "text4": "with",
+        "text5": "over a year of experience.",
+        "text6": "I enjoy building",
+        "text7": "sites & apps.",
+        "text8": " My focus is",
+        "text9": "Backend Development",
+        "contact_me": "Contact me here",
+        "download_cv": "Download CV"
+    },
+    "About": {
+        "title": "About me",
+        "paragraph1": "After graduating with a degree in <span className='font-medium'>Law</span>, I decided to pursue my passion for programming. I enrolled in a coding bootcamp and learned <span className='font-medium'>full-stack web development</span>. <span className='italic'>My favorite part of programming</span> is the problem-solving aspect. I <span className='underline'>love</span> the feeling of finally figuring out a solution to a problem. My core stack is <span className='font-medium'>React, Next.js, Node.js, and MongoDB</span>. I am also familiar with TypeScript and Prisma. I am always looking to learn new technologies. I am currently looking for a <span className='font-medium'>full-time position</span> as a software developer.",
+        "paragraph2": "<span className='italic'>When I'm not coding</span>, I enjoy playing video games, watching movies, and playing with my dog. I also enjoy <span className='font-medium'>learning new things</span>. I am currently learning about <span className='font-medium'>history and philosophy</span>. I'm also learning how to play the guitar."
+    },
+    "Projects": {
+        "title": "My Projects"
+    },
+    "project1": {
+        "title": "Hirrd | Job Board",
+        "description": "Hirrd is a modern job portal app that streamlines job searching and recruitment."
+    },
+    "project2": {
+        "title": "Yoom | Meeting App",
+        "description": "Yoom is an innovative meeting application that facilitates virtual collaboration through high-quality video and audio interactions."
+    },
+    "project3": {
+        "title": "Summariser | AI App",
+        "description": "Summariser is an AI-powered application that condenses lengthy texts into concise summaries, enhancing reading efficiency and comprehension."
+    },
+    "project4": {
+        "title": "Foodie | Online Food Delivery",
+        "description": "Foodie is a food delivery app that connects users with local restaurants for quick and convenient online ordering."
+    },
+    "project5": {
+        "title": "notes | Note Taking App",
+        "description": "notes is a simple note-taking application that allows users to create, edit, and delete notes."
+    },
+    "project6": {
+        "title": "React_Secure",
+        "description": "React_Secure is a password management application that securely stores and encrypts user login information."
+    },
+    "Skills": {
+        "title":"My Skills"
+    },
+    "Experience": {
+        "title": "My Experience",
+        "exp1": {
+            "title": "Web Developement Course",
+            "location": "Simplon",
+            "date": "Feb 2022 - Nov 2022",
+            "description": "Developed and maintained web applications using MERN. Collaborated with cross-functional teams to design and implement new features. Conducted code reviews and provided technical support to team members."
+        },
+        "exp2": {
+            "title": "Software Engineering",
+            "location": "Holberton School",
+            "date": "Nov 2022 - Aug 2024",
+            "description": "Completed a rigorous software engineering program focused on full-stack development. Participated in hands-on projects and coding challenges to enhance problem-solving skills. Gained experience with industry-standard tools and technologies."
+        },
+        "exp3": {
+            "title": "Buiding Web Applications",
+            "location": "Lome-TOGO",
+            "date": "May 2022 - Nov 2024",
+            "description": "Designed and developed web applications from concept to deployment. Utilized agile methodologies to deliver high-quality software products on time and within budget. Conducted user testing and gathered feedback to improve application usability."
+        }
+    },
+    "Contact": {
+        "title": "Contact Me",
+        "description1": "Please contact me directly at",
+        "description2": "or through this form.",
+        "email": "Your Email",
+        "message": "Your Message",
+        "send": "Submit"
+    }
+
+}

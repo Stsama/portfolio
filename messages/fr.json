@@ -1,0 +1,94 @@
+{
+    "Metadata": {
+        "title": "Albert Ezoula | Ingenieur Logiciel",
+        "description": "Bienvenue sur mon portfolio de developpeur! Explorez une collection de mes projets et applications web mettant en valeur mon expertise dans la construction d'interfaces utilisateur dynamiques et interactives. Avec une passion pour le code propre et des solutions innovantes, je m'efforce de creer des experiences utilisateur fluides qui melent fonctionnalite et designs epoustouflants."
+    },
+    "Cv":{
+        "link":"Ingenieur_lociciel_francais.pdf"
+    },
+    "Navbar": {
+        "home": "Accueil",
+        "about": "Apropos",
+        "skills": "Skills",
+        "projects": "Projets",
+        "experience": "Experience",
+        "contact": "Contact"
+    },
+    "Hero": {
+        "text1": "Salut, je suis Albert Ezoula, ",
+        "text2": "Je suis",
+        "text3": "Ingenieur Génie Logiciel",
+        "text4": "avec",
+        "text5": "plus d'un an d'experience.",
+        "text6": "Je construis",
+        "text7": "des sites & applications.",
+        "text8": "Ma specialisation",
+        "text9": "est le Developpement Backend",
+        "contact_me": "Contactez moi ici",
+        "download_cv": "Telecharger CV"
+    },
+    "About": {
+        "title": "A Propos de Moi",
+        "paragraph1": "Après avoir obtenu un diplôme en <span className='font-medium'>Droit</span>, j'ai décidé de poursuivre ma passion pour la programmation. J'ai suivi un bootcamp de codage et appris le <span className='font-medium'>développement web full-stack</span>. <span className='italic'>Ce que je préfère dans la programmation</span> est l'aspect résolution de problèmes. J'adore le sentiment de trouver enfin une solution à un problème. Mon stack principal est <span className='font-medium'>React, Next.js, Node.js, et MongoDB</span>. Je connais aussi TypeScript et Prisma. Je suis toujours à la recherche de nouvelles technologies à apprendre. Je cherche actuellement un poste <span className='font-medium'>à temps plein</span> en tant que développeur logiciel.",
+        "paragraph2": "<span className='italic'>Quand je ne code pas</span>, j'aime jouer aux jeux vidéo, regarder des films, et passer du temps avec mon chien. J'aime aussi <span className='font-medium'>apprendre de nouvelles choses</span>. En ce moment, j'étudie <span className='font-medium'>l'histoire et la philosophie</span>. J'apprends aussi à jouer de la guitare."
+    },
+    "Projects": {
+        "title": "Mes Projets"
+    },
+    "project1": {
+        "title": "Hirrd",
+        "description": "Hirrd est une application moderne de portail d'emploi qui simplifie la recherche d'emploi et le recrutement."
+    },
+    "project2": {
+        "title": "Yoom ",
+        "description": "Yoom est une application de réunion innovante qui facilite la collaboration virtuelle grâce à des interactions vidéo et audio de haute qualité."
+    },
+    "project3": {
+        "title": "Summariser",
+        "description": "Summariser est une application alimentée par l'IA qui condense les textes longs en résumés concis."
+    },
+    "project4": {
+        "title": "FeedMe",
+        "description": "FeedMe est une application de livraison de nourriture qui connecte les utilisateurs avec des restaurants locaux pour des commandes en ligne rapides et pratiques."
+    },
+    "project5": {
+        "title": "Notes",
+        "description": "Notes est une application simple de prise de notes qui permet aux utilisateurs de créer, modifier et supprimer des notes."
+    },
+    "project6": {
+        "title": "React_Secure",
+        "description": "React_Secure est une application de gestion de mots de passe qui stocke et sécurise les informations de connexion des utilisateurs."
+    },
+    "Skills": {
+        "title": "Mes Competences"
+    },
+    "Experience": {
+        "title": "Mon Expérience",
+        "exp1": {
+            "title": "Cours de Développement Web",
+            "location": "Simplon",
+            "date": "Fév 2022 - Nov 2022",
+            "description": "Développement et maintenance d'applications web utilisant MERN. Collaboration avec des équipes interfonctionnelles pour concevoir et implémenter de nouvelles fonctionnalités. Réalisation de revues de code et fourniture de support technique aux membres de l'équipe."
+        },
+        "exp2": {
+            "title": "Ingénierie Logicielle",
+            "location": "Holberton School",
+            "date": "Nov 2022 - Août 2024",
+            "description": "Terminé un programme rigoureux en ingénierie logicielle axé sur le développement full-stack. Participation à des projets pratiques et des défis de codage pour améliorer les compétences en résolution de problèmes. Acquisition d'expérience avec des outils et technologies standard de l'industrie."
+        },
+        "exp3": {
+            "title": "Création d'Applications Web",
+            "location": "Lomé-TOGO",
+            "date": "Mai 2022 - Nov 2024",
+            "description": "Conception et développement d'applications web de la conception à la mise en production. Utilisation des méthodologies agiles pour livrer des produits logiciels de haute qualité dans les délais et budgets impartis. Réalisation de tests utilisateurs et collecte de retours pour améliorer l'ergonomie des applications."
+        }
+    },
+    "Contact": {
+        "title": "Contactez Moi",
+        "description1": "Prière de me contacter directemnt sur ",
+        "description2": "ou à travers ce formaulaire.",
+        "email": "Ton Email",
+        "message": "Ton Message",
+        "send": "Soumettre"
+    }
+}
