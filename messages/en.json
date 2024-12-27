@@ -3,8 +3,8 @@
         "title": "Albert Ezoula | Software Engineer",
         "description": "Welcome to my developer portfolio! Explore a collection of my projects and web applications showcasing my expertise in building dynamic and interactive user interfaces. With a passion for clean code and innovative solutions, I strive to create seamless user experiences that blend functionality with stunning designs."
     },
-    "Cv":{
-        "link":"Albert_Ezoula_CV_EN.pdf"
+    "Cv": {
+        "link": "Albert_Ezoula_CV_EN.pdf"
     },
     "Navbar": {
         "home": "Home",
@@ -15,6 +15,7 @@
         "contact": "Contact"
     },
     "Hero": {
+        "paragraph1": "Hey there, I’m <span className='font-medium'>Albert Ezoula</span>!  A <span className='font-medium'>Software Engineer</span> based in <span className='font-medium'>Togo</span>, with 1+ year of experience turning ideas into reality through elegant and functional websites and applications.  My passion? Crafting seamless <span className='font-medium'>backend systems</span> that are secure, scalable, and built to last.  <span className='italic'>I’m always eager to explore new technologies</span> and push the boundaries of what’s possible. Let’s create something extraordinary together!",
         "text1": "Hello, I'm Albert Ezoula,",
         "text2": "I am a",
         "text3": "Software Engineer",
@@ -29,8 +30,7 @@
     },
     "About": {
         "title": "About me",
-        "paragraph1": "After graduating with a degree in <span className='font-medium'>Law</span>, I decided to pursue my passion for programming. I enrolled in a coding bootcamp and learned <span className='font-medium'>full-stack web development</span>. <span className='italic'>My favorite part of programming</span> is the problem-solving aspect. I <span className='underline'>love</span> the feeling of finally figuring out a solution to a problem. My core stack is <span className='font-medium'>React, Next.js, Node.js, and MongoDB</span>. I am also familiar with TypeScript and Prisma. I am always looking to learn new technologies. I am currently looking for a <span className='font-medium'>full-time position</span> as a software developer.",
-        "paragraph2": "<span className='italic'>When I'm not coding</span>, I enjoy playing video games, watching movies, and playing with my dog. I also enjoy <span className='font-medium'>learning new things</span>. I am currently learning about <span className='font-medium'>history and philosophy</span>. I'm also learning how to play the guitar."
+        "paragraph3": "<span>\n  <span className=\"font-medium\">Hello!</span> I’m <span className=\"font-medium\">Albert Ezoula</span>, a passionate Software Engineer based in <span className=\"font-medium\">Togo</span>.\n  With over a year of experience in <span className=\"font-medium\">backend</span> and <span className=\"font-medium\">frontend</span>, I’m skilled in <span className=\"font-medium\">React, Next.js, Node.js</span>,<span className=\"font-medium\"> MongoDB, flask and MySQL</span>.\n  Always curious, I love solving problems and exploring new technologies.\n  I’m seeking <span className=\"font-medium\">full-time opportunities</span> to build innovative solutions.\n</span>"
     },
     "Projects": {
         "title": "My Projects"
@@ -60,7 +60,7 @@
         "description": "React_Secure is a password management application that securely stores and encrypts user login information."
     },
     "Skills": {
-        "title":"My Skills"
+        "title": "My Skills"
     },
     "Experience": {
         "title": "My Experience",
@@ -91,5 +91,4 @@
         "message": "Your Message",
         "send": "Submit"
     }
-
 }

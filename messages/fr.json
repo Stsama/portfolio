@@ -3,8 +3,8 @@
         "title": "Albert Ezoula | Ingenieur Logiciel",
         "description": "Bienvenue sur mon portfolio de developpeur! Explorez une collection de mes projets et applications web mettant en valeur mon expertise dans la construction d'interfaces utilisateur dynamiques et interactives. Avec une passion pour le code propre et des solutions innovantes, je m'efforce de creer des experiences utilisateur fluides qui melent fonctionnalite et designs epoustouflants."
     },
-    "Cv":{
-        "link":"Albert_Ezoula_CV_FR.pdf"
+    "Cv": {
+        "link": "Albert_Ezoula_CV_FR.pdf"
     },
     "Navbar": {
         "home": "Accueil",
@@ -15,6 +15,7 @@
         "contact": "Contact"
     },
     "Hero": {
+        "paragraph1": "Salut, je suis <span className='font-medium'>Albert Ezoula</span> ! Un <span className='font-medium'>ingénieur logiciel</span> basé au <span className='font-medium'>Togo</span>, avec plus d’un an d’expérience dans la transformation d’idées en sites web et applications élégants et fonctionnels. Ma passion ? Concevoir des <span className='font-medium'>systèmes backend</span> fluides, sécurisés, évolutifs et faits pour durer. <span className='italic'>Je suis toujours curieux d’explorer de nouvelles technologies</span> et de repousser les limites du possible. Créons ensemble quelque chose d’extraordinaire !",
         "text1": "Salut, je suis Albert Ezoula, ",
         "text2": "Je suis",
         "text3": "Ingenieur Génie Logiciel",
@@ -29,8 +30,7 @@
     },
     "About": {
         "title": "A Propos de Moi",
-        "paragraph1": "Après avoir obtenu un diplôme en <span className='font-medium'>Droit</span>, j'ai décidé de poursuivre ma passion pour la programmation. J'ai suivi un bootcamp de codage et appris le <span className='font-medium'>développement web full-stack</span>. <span className='italic'>Ce que je préfère dans la programmation</span> est l'aspect résolution de problèmes. J'adore le sentiment de trouver enfin une solution à un problème. Mon stack principal est <span className='font-medium'>React, Next.js, Node.js, et MongoDB</span>. Je connais aussi TypeScript et Prisma. Je suis toujours à la recherche de nouvelles technologies à apprendre. Je cherche actuellement un poste <span className='font-medium'>à temps plein</span> en tant que développeur logiciel.",
-        "paragraph2": "<span className='italic'>Quand je ne code pas</span>, j'aime jouer aux jeux vidéo, regarder des films, et passer du temps avec mon chien. J'aime aussi <span className='font-medium'>apprendre de nouvelles choses</span>. En ce moment, j'étudie <span className='font-medium'>l'histoire et la philosophie</span>. J'apprends aussi à jouer de la guitare."
+        "paragraph3": "<span>\n  <span className=\"font-medium\">Bonjour !</span> Je suis <span className=\"font-medium\">Albert Ezoula</span>, un ingénieur logiciel passionné basé au <span className=\"font-medium\">Togo</span>.\n  J’ai plus d’un an d’expérience en <span className=\"font-medium\">backend</span> et <span className=\"font-medium\">frontend</span>, maîtrisant <span className=\"font-medium\">React, Next.js, Node.js</span>,<span className=\"font-medium\"> MongoDB, flask et MySQL</span>.\n  Toujours curieux, j’adore résoudre des problèmes et explorer de nouvelles technologies.\n  Je recherche des <span className=\"font-medium\">opportunités à temps plein</span> pour créer des solutions innovantes.\n</span>"
     },
     "Projects": {
         "title": "Mes Projets"
@@ -40,12 +40,12 @@
         "description": "Hirrd est une application moderne de portail d'emploi qui simplifie la recherche d'emploi et le recrutement."
     },
     "project2": {
-        "title": "Yoom ",
+        "title": "Yoom",
         "description": "Yoom est une application de réunion innovante qui facilite la collaboration virtuelle grâce à des interactions vidéo et audio de haute qualité."
     },
     "project3": {
-        "title": "Summariser",
-        "description": "Summariser est une application alimentée par l'IA qui condense les textes longs en résumés concis."
+        "title": "Summarizer",
+        "description": "Summarizer est une application alimentée par l'IA qui condense les articles longs en résumés concis."
     },
     "project4": {
         "title": "FeedMe",

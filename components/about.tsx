@@ -21,9 +21,9 @@ export default function About() {
       id="about"
     >
       <SectionHeading>{t("About.title")} </SectionHeading>
-      <div className="mb-3" dangerouslySetInnerHTML={{ __html: t.raw('About.paragraph1') }} />
-
-      <div className="mb-3" dangerouslySetInnerHTML={{ __html: t.raw('About.paragraph2') }} />
+     
+      <div className="mb-3" dangerouslySetInnerHTML={{ __html: t.raw('About.paragraph3') }} />
+      {/* <div className="mb-3" dangerouslySetInnerHTML={{ __html: t.raw('About.paragraph2') }} /> */}
 
     </motion.section>
   );
